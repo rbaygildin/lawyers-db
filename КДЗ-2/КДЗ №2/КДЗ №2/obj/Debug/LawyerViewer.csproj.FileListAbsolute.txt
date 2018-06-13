@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\LawyerViewer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\КДЗ__2.MainWindow.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\КДЗ__2.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\LawyerViewer.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\bin\Debug\КДЗ №2.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\bin\Debug\КДЗ №2.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\bin\Debug\КДЗ №2.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\КДЗ №2.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2\КДЗ №2\obj\Debug\КДЗ №2.pdb

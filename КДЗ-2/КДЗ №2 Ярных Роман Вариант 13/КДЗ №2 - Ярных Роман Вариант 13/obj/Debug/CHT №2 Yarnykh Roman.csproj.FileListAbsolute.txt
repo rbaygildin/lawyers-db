@@ -1,0 +1,18 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT_2_Yarnykh_Roman_V13.MainWindow.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT_2_Yarnykh_Roman_V13.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman V13.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 - Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman V13.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman V13.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman V13.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\bin\Debug\CHT №2 Yarnykh Roman V13.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT_2_Yarnykh_Roman_V13.MainWindow.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT_2_Yarnykh_Roman_V13.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\КДЗ-2\КДЗ №2 Ярных Роман Вариант 13\КДЗ №2 - Ярных Роман Вариант 13\obj\Debug\CHT №2 Yarnykh Roman.csproj.GenerateResource.Cache
